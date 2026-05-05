@@ -1,5 +1,16 @@
 # agents
 
+## Run
+
+```bash
+#---------------------
+# 1) gemini
+#---------------------
+
+
+gemini --approval-mode=yolo
+```
+
 
 
 ## TODO
